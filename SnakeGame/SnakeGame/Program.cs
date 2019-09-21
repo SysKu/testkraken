@@ -10,7 +10,7 @@ namespace SnakeGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("                                 SNAKE                       ");
+            Console.WriteLine("                                 SNAKE        KRAKEN         ");
          
          
 
@@ -142,7 +142,7 @@ namespace SnakeGame
             //paint the head
             Console.SetCursorPosition(xPositionIn[0], yPositionIn[0]);
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine((char)214);
+            Console.WriteLine('X');
 
             //Paint the body
             for (int i = 1; i < applesEaten +1; i++)
