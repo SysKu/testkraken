@@ -2,3 +2,6 @@ Tjena
 Hur mår du?
 Jag mår bra, hur måt du?
 Tjenixen
+
+
+Hoppas detta funkar nu.
